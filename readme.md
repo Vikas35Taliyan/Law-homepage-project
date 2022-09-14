@@ -2,6 +2,7 @@
 ![project](https://img.shields.io/badge/project-law%20homepage-green)
 ![tech](https://img.shields.io/badge/tech-css-yellowgreen)
 ![thanks](https://img.shields.io/badge/thanks-hitesh%20choudhary-red)
+# Live
 [Netlify](https://law-homepage-840153.netlify.app/)
 
 # project name
